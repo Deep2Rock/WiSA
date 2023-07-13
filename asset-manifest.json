@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WiSA/static/css/main.1dfeff77.css",
+    "main.js": "/WiSA/static/js/main.b97a968d.js",
+    "static/js/787.71075ba2.chunk.js": "/WiSA/static/js/787.71075ba2.chunk.js",
+    "static/media/logo.svg": "/WiSA/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/WiSA/index.html",
+    "main.1dfeff77.css.map": "/WiSA/static/css/main.1dfeff77.css.map",
+    "main.b97a968d.js.map": "/WiSA/static/js/main.b97a968d.js.map",
+    "787.71075ba2.chunk.js.map": "/WiSA/static/js/787.71075ba2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dfeff77.css",
+    "static/js/main.b97a968d.js"
+  ]
+}
